@@ -1,0 +1,115 @@
+{
+  "cookies": [
+    {
+      "name": "wordpress_sec_479efc27694de1240bbe63ecbb6e8baf",
+      "value": "auser%7C1794662844%7CKlsiRpFNAGltQp5ANilN1xVAX0TLsFvgVrdaUXePejJ%7C069e16eb83252075d3a2ec448e43d62bfdf3c3651d2faaf6a071de3f3e144328",
+      "domain": "www.edgewordstraining.co.uk",
+      "path": "/demo-site/wp-content/plugins",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_sec_479efc27694de1240bbe63ecbb6e8baf",
+      "value": "auser%7C1794662844%7CKlsiRpFNAGltQp5ANilN1xVAX0TLsFvgVrdaUXePejJ%7C069e16eb83252075d3a2ec448e43d62bfdf3c3651d2faaf6a071de3f3e144328",
+      "domain": "www.edgewordstraining.co.uk",
+      "path": "/demo-site/wp-admin",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_logged_in_479efc27694de1240bbe63ecbb6e8baf",
+      "value": "auser%7C1794662844%7CKlsiRpFNAGltQp5ANilN1xVAX0TLsFvgVrdaUXePejJ%7C856bec375e067670737d3cd887566932ce609f4f5de2542b37e5df633dc83abe",
+      "domain": "www.edgewordstraining.co.uk",
+      "path": "/demo-site/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_migrations",
+      "value": "1418474375998%3D1",
+      "domain": ".edgewordstraining.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_current_add",
+      "value": "fd%3D2026-11-12%2013%3A27%3A22%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.edgewordstraining.co.uk%2Fdemo-site%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
+      "domain": ".edgewordstraining.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_first_add",
+      "value": "fd%3D2026-11-12%2013%3A27%3A22%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.edgewordstraining.co.uk%2Fdemo-site%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
+      "domain": ".edgewordstraining.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_current",
+      "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29",
+      "domain": ".edgewordstraining.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_first",
+      "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29",
+      "domain": ".edgewordstraining.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_udata",
+      "value": "vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F158.0.8127.18%20Safari%2F537.36",
+      "domain": ".edgewordstraining.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbjs_session",
+      "value": "pgs%3D2%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.edgewordstraining.co.uk%2Fdemo-site%2Fmy-account%2F",
+      "domain": ".edgewordstraining.co.uk",
+      "path": "/",
+      "expires": 1794491845,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.edgewordstraining.co.uk",
+      "localStorage": [
+        {
+          "name": "wc_cart_hash_c6446e737ab5ae22d0f68a30ce6eb9ae",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
